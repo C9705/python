@@ -31,3 +31,4 @@ print(drinks.groupby('continent').median())
 # 打印出每个大陆对spirit饮品消耗的平均值，最大值和最小值
 print('--------------打印出每个大陆对spirit饮品消耗的平均值，最大值和最小值--------------------')
 print(drinks.groupby('continent').spirit_servings.describe())
+drinks.groupby('continent').spirit_servings.agg(['mean', 'min', 'max'])
