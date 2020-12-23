@@ -25,7 +25,7 @@ print(chipo.index)
 print('---------------------------------')
 # 被下单数最多的商品是什么
 # 运用groupby进行分组，其中as_index=False，会输出索引，agg/apply分组聚合函数
-# sort_values进行判读，ascending=False，为降序
+# sort_values进行排序，ascending=False，为降序
 c=chipo[['item_name','quantity']].groupby(['item_name'],as_index=False).agg({'quantity':np.sum})
 c.sort_values(['quantity'],ascending=False,inplace=True,)
 print(c.head())
