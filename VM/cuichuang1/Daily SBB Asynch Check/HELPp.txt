@@ -1,0 +1,43 @@
+"E:\workspaceprod\cuichuang1\Daily SBB Asynch Check\test3.xlsx"
+"E:\workspaceprod\cuichuang1\Daily SBB Asynch Check\VBAcuichuang.xlsm"
+
+"E:\workspaceprod\cuichuang1\Daily SBB Asynch Check\VBAcuichuangnew.xlsm"
+
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+E:\workspaceprod\cuichuang1\Daily SBB Asynch Check\Admin.xlsx
+"E:\workspaceprod\cuichuang1\Daily SBB Asynch Check\sbbreport.xlsx"
+E:\workspaceprod\cuichuang1\Daily SBB Asynch Check\password.txt
+E:\workspaceprod\cuichuang1\Daily SBB Asynch Check\username.txt
+E:\workspaceprod\cuichuang1\Daily SBB Asynch Check\cto.xlsx
+
+
+"C:\Users\guoyn\Downloads\1585812892161.xlsm"
+
+SBBAdhocReport_excel      ^{k}
+
+select A1  ^{b}
+webcto   ^{m}
+pass ^{y}
+webcto
+
+
+	
+
+
+
+CTOA1  ^{m}
+CTOA2 ^{y}
+
+A3 ^{q}
+A4^{i}
+A5^{k}
+A6^{l}
+
+emptyFile
+
+deleteFile
+remove
+part1
+part2
+bigAction
+closeworkbook

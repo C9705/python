@@ -1,0 +1,15 @@
+1.CHROME LOGIN
+2.DELETEFILE
+3.EMPTYfILE
+4.removeNBone
+5.start chrome---download SBBreport(initiated)
+6.openSBB copy
+7.start chrome---where used report
+
+
+
+
+
+
+
+
