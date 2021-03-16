@@ -1,8 +1,0 @@
-使用教程：
-https://blog.csdn.net/li13148023/article/details/89383695 
-https://www.autoitscript.com/wiki 
-https://www.jb51.net/shouce/autoit/ 
-https://www.cnblogs.com/generalli2019/p/11451211.html 
-
-软件下载网址：
-https://www.autoitscript.com/site/autoit/downloads/ 
